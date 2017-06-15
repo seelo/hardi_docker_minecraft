@@ -1,4 +1,5 @@
-# navis_docker_teamcity
+# hardi_docker_minecraft
 
-TODO: Enter the cookbook description here.
+A Chef cookbook to deploy a Minecraft server docker container
+
 
